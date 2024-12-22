@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2024/12/22/How-to-use-Sora/</loc>
+    
+    <lastmod>2024-12-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2024/12/22/OpenAI-ChatGPT-Registration-Detailed-Tutorial/</loc>
     
     <lastmod>2024-12-22</lastmod>
@@ -78,6 +87,13 @@
   
   <url>
     <loc>http://example.com/tags/ChatGPT-OpenAI/</loc>
+    <lastmod>2024-12-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Sora/</loc>
     <lastmod>2024-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
