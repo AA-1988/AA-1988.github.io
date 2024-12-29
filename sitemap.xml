@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2024/12/29/Claude-ChatGPT-A-Showdown-in-the-AI-World-Which-One-Suits-You-Better/</loc>
+    
+    <lastmod>2024-12-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2024/12/29/%E2%80%9C200-Don%E2%80%99t-worry-about-Fomepay-running-away-Wildcard-teaches-you-new-tricks-for-overseas-payment-hurry-up-and-collect-%E2%80%9D/</loc>
     
     <lastmod>2024-12-29</lastmod>
@@ -256,6 +265,13 @@
   
   <url>
     <loc>http://example.com/tags/ChatGPT/</loc>
+    <lastmod>2024-12-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/AI/</loc>
     <lastmod>2024-12-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
