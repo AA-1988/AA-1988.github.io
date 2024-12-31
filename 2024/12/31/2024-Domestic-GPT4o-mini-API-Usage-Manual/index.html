@@ -27,11 +27,16 @@
 <meta property="og:site_name" content="AI闪电侠">
 <meta property="og:description" content="本文讲述 OpenAI 的 GPT-4，这是一个大型语言模型，它是 Generative Pre-trained Transformer 模型的第四代。GPT-4 预计将比其前身 GPT-3 更加强大，能够处理更复杂的任务，并生成更加自然和准确的语言。">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211351492.png">
+<meta property="og:image" content="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211528373.png">
+<meta property="og:image" content="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211615604.png">
+<meta property="og:image" content="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211712088.png">
 <meta property="article:published_time" content="2024-12-31T12:52:49.000Z">
-<meta property="article:modified_time" content="2024-12-31T13:02:56.788Z">
+<meta property="article:modified_time" content="2024-12-31T13:18:19.914Z">
 <meta property="article:author" content="AI闪电侠">
 <meta property="article:tag" content="GPT4o-mini API">
 <meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211351492.png">
   
   
   
@@ -77,7 +82,7 @@
   <div class="content">
     <div class="top bread-nav footnote"><div class="left"><div class="flex-row" id="breadcrumb"><a class="cap breadcrumb" href="/">Home</a>
 <span class="sep"></span><a class="cap breadcrumb" href="/">Blog</a></div>
-<div class="flex-row" id="post-meta"><span class="text created">Posted on: <time datetime="2024-12-31T12:52:49.000Z">2024-12-31</time></span><span class="sep updated"></span><span class="text updated">Updated on: <time datetime="2024-12-31T13:02:56.788Z">2024-12-31</time></span></div></div></div>
+<div class="flex-row" id="post-meta"><span class="text created">Posted on: <time datetime="2024-12-31T12:52:49.000Z">2024-12-31</time></span><span class="sep updated"></span><span class="text updated">Updated on: <time datetime="2024-12-31T13:18:19.914Z">2024-12-31</time></span></div></div></div>
     
     <div class="bottom only-title">
       
@@ -103,6 +108,7 @@
 </ul>
 <h1 id="二、如何调用GPT4o-mini-API"><a href="#二、如何调用GPT4o-mini-API" class="headerlink" title="二、如何调用GPT4o-mini API"></a>二、如何调用GPT4o-mini API</h1><h2 id="通过官网调调用GPT4o-mini-API"><a href="#通过官网调调用GPT4o-mini-API" class="headerlink" title="通过官网调调用GPT4o-mini API"></a><strong>通过官网调调用GPT4o-mini API</strong></h2><h3 id="步骤一：创建OpenAI账号"><a href="#步骤一：创建OpenAI账号" class="headerlink" title="步骤一：创建OpenAI账号"></a>步骤一：创建OpenAI账号</h3><p>现在 OpenAI 的账号创建十分方便，准备一个海外邮箱（比如谷歌邮箱），一个稳定的网络环境，很容易就能创建一个账号。</p>
 <h2 id="步骤-2：获取API密钥"><a href="#步骤-2：获取API密钥" class="headerlink" title="步骤 2：获取API密钥"></a>步骤 2：获取API密钥</h2><p>登录OpenAI官网后，进入开发文档—密钥创建页面：<a target="_blank" rel="noopener" href="https://platform.openai.com/api-keys%EF%BC%8C%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA">https://platform.openai.com/api-keys，创建一个</a> api-key，获取到 api 密钥，就可以调用官网的 api 了。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211351492.png" alt="image-20241231211351492"></p>
 <h2 id="步骤-3：调用示例"><a href="#步骤-3：调用示例" class="headerlink" title="步骤 3：调用示例"></a>步骤 3：调用示例</h2><p>OpenAI 的接口调用有两种方式：</p>
 <ol>
 <li>使用官方 sdk</li>
@@ -119,6 +125,7 @@
 <h2 id="通过代理商调用GPT4o-mini-API"><a href="#通过代理商调用GPT4o-mini-API" class="headerlink" title="通过代理商调用GPT4o-mini API"></a>通过代理商调用GPT4o-mini API</h2><p>以我常用的 <a target="_blank" rel="noopener" href="https://bewildcard.com/i/AA1988">WildCard</a> 为例，它是一家虚拟信用卡服务提供商，专攻 ChatGPT 支付方式，后来做着做着就推出了 <strong>API 随心用功能，无需OpenAI账户，任意网络直连 ChatGPT&#x2F;Claude 官方接口，各模型token价格也和官网完全一样</strong></p>
 <h3 id="步骤一：注册账户"><a href="#步骤一：注册账户" class="headerlink" title="步骤一：注册账户"></a>步骤一：注册账户</h3><p>点击 <a target="_blank" rel="noopener" href="https://bewildcard.com/i/AA1988">WildCard</a>，使用国内手机号即可注册账户。</p>
 <h3 id="步骤二：创建-api-key"><a href="#步骤二：创建-api-key" class="headerlink" title="步骤二：创建 api-key"></a>步骤二：创建 api-key</h3><p>找到 API 随心用功能，即可创建 api-key。（使用之前需要先用支付宝充值个几美元）</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211528373.png" alt="image-20241231211528373"></p>
 <h3 id="步骤三：调用示例"><a href="#步骤三：调用示例" class="headerlink" title="步骤三：调用示例"></a>步骤三：调用示例</h3><p>除了域名不一样，使用方式和官网 api 调用完全一样</p>
 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">bash</span><br><span class="line">curl https://api.gptsapi.net/v1/chat/completions &lt;br/&gt;  -H &quot;Content-Type: application/json&quot; &lt;br/&gt;  -H &quot;Authorization: Bearer $OPENAI_API_KEY&quot; &lt;br/&gt;  -d &#x27;&#123;</span><br><span class="line">     &quot;model&quot;: &quot;gpt-4o-mini&quot;,</span><br><span class="line">     &quot;messages&quot;: [&#123;&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Say this is a test!&quot;&#125;],</span><br><span class="line">     &quot;temperature&quot;: 0.7</span><br><span class="line">   &#125;&#x27;</span><br></pre></td></tr></table></figure>
 
@@ -140,6 +147,7 @@
 <p><a target="_blank" rel="noopener" href="https://bewildcard.com/i/AA1988">WildCard</a> 支持支付宝充值。</p>
 <h2 id="代理商余额提现问题"><a href="#代理商余额提现问题" class="headerlink" title="代理商余额提现问题"></a>代理商余额提现问题</h2><p>余额可随时提现到支付宝</p>
 <h2 id="代理商账单查询"><a href="#代理商账单查询" class="headerlink" title="代理商账单查询"></a>代理商账单查询</h2><p>【<strong>消费明细</strong>】计费明细栏展示了各接口的费用明细</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211615604.png" alt="image-20241231211615604"></p>
 <h2 id="代理商API-价格"><a href="#代理商API-价格" class="headerlink" title="代理商API 价格"></a>代理商API 价格</h2><p>和官网完全一致。</p>
 <h1 id="四、常见问题"><a href="#四、常见问题" class="headerlink" title="四、常见问题"></a>四、常见问题</h1><h2 id="1-WildCard如何收费？"><a href="#1-WildCard如何收费？" class="headerlink" title="1. WildCard如何收费？"></a>1. WildCard如何收费？</h2><p>WildCard 开通会员可以选择 2 年或 3 年服务时间。</p>
 <ul>
@@ -216,10 +224,13 @@
 <p>美国的支付系统跟中国不一样，中国是所有人都用央行的一个清算系统，美国是 虚拟卡帐户-发卡行-清算行-收款银行-收款商户，从收款商户发起退款开始，最快也要14个工作日，有的客户甚至有30天的情况，请见谅。</p>
 <h2 id="7-ChatGPT-出现「我们未能验证您的支付方式-we-are-unable-to-authenticate」"><a href="#7-ChatGPT-出现「我们未能验证您的支付方式-we-are-unable-to-authenticate」" class="headerlink" title="7.ChatGPT 出现「我们未能验证您的支付方式&#x2F;we are unable to authenticate」"></a>7.ChatGPT 出现「我们未能验证您的支付方式&#x2F;we are unable to authenticate」</h2><p>在订阅 ChatGPT Plus 时，有时候会出现以下报错：</p>
 <p>我们未能验证您的支付方式。</p>
+<p><img class="lazy" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII=" data-src="https://aa-198.oss-cn-beijing.aliyuncs.com/image-20241231211712088.png" alt="image-20241231211712088"></p>
 <p>出现 unable to authenticate 这个错误，基本上是因为咱们当前的代理 IP 使用人数过多，导致 IP 被 Stripe 风控，然后拒绝支付。</p>
 <p>解决方案是：切换到一个人少的网络节点，或者使用我们服务，按指引一步步来即可。</p>
 <p>本文详细介绍了如何使用GPT4o-mini API，无论您是通过官网还是代理商调用，都能快速上手。立即开始尝试GPT4o-mini API，体验高效、经济的AI能力吧！</p>
-<p>(<a target="_blank" rel="noopener" href="http://aa-1988.github.io/2024/12/31/2024-Domestic-GPT4o-mini-API-Usage-Manual/">2024年国内GPT4o-mini API使用手册：快速入门与集成攻略 - AI闪电侠</a>)</p>
+<blockquote>
+<p>参考文章：(<a target="_blank" rel="noopener" href="http://aa-1988.github.io/2024/12/31/2024-Domestic-GPT4o-mini-API-Usage-Manual/">2024年国内GPT4o-mini API使用手册：快速入门与集成攻略 - AI闪电侠</a>)</p>
+</blockquote>
 
 <div class="article-footer fs14">
     <section id="license">
