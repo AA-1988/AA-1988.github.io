@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2025/01/01/GPT-challenges-the-game-Black-Myth/</loc>
+    
+    <lastmod>2025-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2024/12/31/2024-Domestic-GPT4o-mini-API-Usage-Manual/</loc>
+    
+    <lastmod>2025-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2025/01/01/Geometric-Langlands-conjecture-is-cracked/</loc>
     
     <lastmod>2025-01-01</lastmod>
@@ -14,15 +32,6 @@
     <loc>http://example.com/2025/01/01/How-to-Upgrade-to-a-Higher-Version/</loc>
     
     <lastmod>2025-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2024/12/31/2024-Domestic-GPT4o-mini-API-Usage-Manual/</loc>
-    
-    <lastmod>2024-12-31</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -321,13 +330,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/GPT4o-mini-API/</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Overleaf/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -336,6 +338,13 @@
   
   <url>
     <loc>http://example.com/tags/%E5%87%A0%E4%BD%95%E6%9C%97%E5%85%B0%E5%85%B9%E7%8C%9C%E6%83%B3/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/GPT-%E9%BB%91%E7%A5%9E%E8%AF%9D/</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
