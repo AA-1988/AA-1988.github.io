@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2025/01/12/How-to-register-Claude-Sonnet/</loc>
+    
+    <lastmod>2025-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2025/01/05/how-to-use-chatGPT-with-DALL-E/</loc>
     
     <lastmod>2025-01-05</lastmod>
@@ -229,7 +238,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -237,147 +246,154 @@
   
   <url>
     <loc>http://example.com/tags/Wildcard/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Suno/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Medium/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/ChatGPT-OpenAI/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Sora/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/GPT4/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/GPT/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/midjourney/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Poe/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/DeepL/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/AWS/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/gmail/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Proton/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/ChatGPT/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/AI/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Patreon/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Overleaf/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/%E5%87%A0%E4%BD%95%E6%9C%97%E5%85%B0%E5%85%B9%E7%8C%9C%E6%83%B3/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/GPT-%E9%BB%91%E7%A5%9E%E8%AF%9D/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/OpenAI-ChatGPT-Plus/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/HeyGen/</loc>
-    <lastmod>2025-01-05</lastmod>
+    <lastmod>2025-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Claude/</loc>
+    <lastmod>2025-01-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
