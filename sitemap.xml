@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2025/03/27/How-ChatGPT-4o-Helps-You/</loc>
+    <loc>http://example.com/2025/03/27/ChatGPT-4o-free-image-generation/</loc>
     
     <lastmod>2025-03-27</lastmod>
     
@@ -772,6 +772,13 @@
   
   <url>
     <loc>http://example.com/tags/OpenAI/</loc>
+    <lastmod>2025-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/ChatGPT-4o/</loc>
     <lastmod>2025-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
