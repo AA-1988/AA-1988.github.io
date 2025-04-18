@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2025/04/18/Prevent-downgrading-intelligence-prevent-account-theft/</loc>
+    
+    <lastmod>2025-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2025/04/18/ChatGPT-gets-another-upgrade/</loc>
     
     <lastmod>2025-04-18</lastmod>
@@ -868,6 +877,13 @@
   
   <url>
     <loc>http://example.com/tags/o3-o4-mini/</loc>
+    <lastmod>2025-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/MFA-ChatGPT/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
