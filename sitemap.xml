@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2025/06/02/How-powerful-is-Claude-4/</loc>
+    
+    <lastmod>2025-06-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/2025/06/02/How-to-recharge-Poe-membership-in-China/</loc>
     
     <lastmod>2025-06-02</lastmod>
@@ -977,6 +986,13 @@
   
   <url>
     <loc>http://example.com/tags/Poe%E4%BC%9A%E5%91%98/</loc>
+    <lastmod>2025-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Claude-4/</loc>
     <lastmod>2025-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
